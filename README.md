@@ -24,11 +24,12 @@ Something my org does is write these 'human user guides' to tell folks a little 
 
 * I'm pretty much always eating during meetings (muted, of course). :chompy: If it's not a meal, it's a tasty snack like kettle corn.
 * I'm a tab-hoarder. I'm working on it. On any given day, I probably have 5-10 windows open, each with 3-30 tabs open (I wish I was exaggerating). Every so often, I burn it all down and close all the windows to start fresh.
-* On any given day, I might be in and out at different times. COVID has been a real slog, and sometimes I just need a lil mental break in the middle of the day, or my wife needs some support. I'll be back, and if something is really urgent, don't hesitate to text me at any time.
+* On any given day, I will be in and out at different times. COVID has been a real slog, and sometimes I just need a lil mental break in the middle of the day, or my wife needs some support. I'll be back, and if something is really urgent, don't hesitate to text me at any time.
 
 #### What are some things that people might misunderstand about you that you should clarify?
 
 * I might send you messages at random times, but I never expect someone to respond when it's not within their normal working hours. I try to preface messages with acknowledgement of such.
+* I sometimes come off as having strong opinions. I do, but am very open to different ideas and would love to hear yours.
 * tbd. Tell me about a misconception you had about me when we met!
 
 ### About my colleagues
