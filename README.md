@@ -14,6 +14,8 @@ Something my org does is write these 'human user guides' to tell folks a little 
 * I love automated linters and formatters. Anything that minimizes conventions I have to consciously follow is `:chef-kiss:`.
 * Food is my love language and the gym is my escape. There's just nothing that feels better than lifting some heavy sh*t when you're frustrated.
 * I thought I was a cat person all my life, and then I met my heart dog. You'll probably see him occasionally in meetings with me. His name is Wilson <3
+* COVID has been a real slog, and sometimes I just need a lil mental break in the middle of the day, or my wife needs some support. I'll be back, and if something is really urgent, don't hesitate to text me at any time.
+
 
 #### What drives you nuts?
 
@@ -24,7 +26,7 @@ Something my org does is write these 'human user guides' to tell folks a little 
 
 * I'm pretty much always eating during meetings (muted, of course). :chompy: If it's not a meal, it's a tasty snack like kettle corn.
 * I'm a tab-hoarder. I'm working on it. On any given day, I probably have 5-10 windows open, each with 3-30 tabs open (I wish I was exaggerating). Every so often, I burn it all down and close all the windows to start fresh.
-* On any given day, I will be in and out at different times. COVID has been a real slog, and sometimes I just need a lil mental break in the middle of the day, or my wife needs some support. I'll be back, and if something is really urgent, don't hesitate to text me at any time.
+* I lose track of time / get into flow state pretty easily. If I'm ever more than a couple mins late to a meeting without giving you a heads up - it's probably because I got distracted and I would appreciate a gentle nudge on slack!
 
 #### What are some things that people might misunderstand about you that you should clarify?
 
