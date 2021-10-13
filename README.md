@@ -30,6 +30,7 @@ Something my org does is write these 'human user guides' to tell folks a little 
 
 #### What are some things that people might misunderstand about you that you should clarify?
 
+* Words of affirmation don't always come naturally to me but I'm working on it! It can sometimes be hard for me to express how excited and enthusiastic I am about something, and I hate it when people don't know how happy or excited I am about their work.
 * I might send you messages at random times, but I never expect someone to respond when it's not within their normal working hours. I try to preface messages with acknowledgement of such.
 * I sometimes come off as having strong opinions. I do, but am very open to different ideas and would love to hear yours.
 * tbd. Tell me about a misconception you had about me when we met!
