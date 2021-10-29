@@ -19,6 +19,7 @@ Something my org does is write these 'human user guides' to tell folks a little 
 
 #### What drives you nuts?
 
+* Having the same meeting over and over again and getting nowhere. I love incremental progress.
 * When people aren't considerate of others' time.
 * My own hoarder / clutter tendencies. I have a hard time throwing _anything_ away, on the off chance it'll be useful again in 5 years. Yes, I tried to read Marie Kondo, and no it did not work.
 
