@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋🏽
 
-I'm Jenny 👋 My pronouns are she/her.
+I'm Jenny👋🏽 My pronouns are she/her.
 
 I used to write backend code (Python, Golang, Java) 💻 but currently I write a lot of Markdown and Yaml 🤓. I'm an eng manager at GitHub right now, and we're looking for software engineers to join us and work on Developer Experience. If you're interested in learning more, please contact me at https://www.linkedin.com/in/imjennyli/!
 
