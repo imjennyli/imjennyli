@@ -14,8 +14,7 @@ Something my org does is write these 'human user guides' to tell folks a little 
 * I love automated linters and formatters. Anything that minimizes conventions I have to consciously follow is `:chef-kiss:`.
 * Food is my love language and the gym is my escape. There's just nothing that feels better than lifting some heavy sh*t when you're frustrated.
 * I thought I was a cat person all my life, and then I met my heart dog. His name is Wilson <3. We recently had to say goodbye to him, and it was incredibly hard to only have spent 3 years with him (he was an old rescue).
-* COVID has been a real slog, and sometimes I just need a lil mental break in the middle of the day, or my wife needs some support. I'll be back, and if something is really urgent, don't hesitate to text me at any time.
-
+* A flexible work schedule works best for me. I typically work ~7-5 with a couple longer breaks in the day to relax. I'm always reachable by text or PagerDuty if something is urgent.
 
 #### What drives you nuts?
 
