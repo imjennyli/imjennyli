@@ -2,7 +2,7 @@
 
 I'm Jenny👋🏽 My pronouns are she/her.
 
-I used to write backend code (Python, Golang, Java) 💻 but currently I write a lot of Markdown and Yaml 🤓. I'm an eng manager at GitHub right now, and we're looking for software engineers to join us and work on Developer Experience. If you're interested in learning more, please contact me at https://www.linkedin.com/in/imjennyli/!
+I've done a bunch of stuff at a bunch of companies so far (see my [LinkedIn](https://www.linkedin.com/in/imjennyli/)) but I'm currently working on making youth sports fun for kids and coaches at [MOJO Sports](https://www.mojo.sport/). 
 
 ## Human User Guide
 Something my org does is write these 'human user guides' to tell folks a little about themselves and how they like to work. Here's mine, posted here for durability.
