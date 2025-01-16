@@ -2,7 +2,7 @@
 
 I'm Jenny👋🏽 My pronouns are she/her.
 
-I've done a bunch of stuff at a bunch of companies so far (see my [LinkedIn](https://www.linkedin.com/in/imjennyli/)) but I'm currently working on making youth sports fun for kids and coaches at [MOJO Sports](https://www.mojo.sport/). 
+I've done a bunch of stuff at a bunch of companies so far (see my [LinkedIn](https://www.linkedin.com/in/imjennyli/)) but I'm currently working on making youth sports fun for kids and coaches at [TeamSnap](https://www.teamsnap.com/), previously [MOJO Sports](https://www.mojo.sport/). 
 
 ## Human User Guide
 Something my org does is write these 'human user guides' to tell folks a little about themselves and how they like to work. Here's mine, posted here for durability.
@@ -13,17 +13,15 @@ Something my org does is write these 'human user guides' to tell folks a little 
 
 * I love automated linters and formatters. Anything that minimizes conventions I have to consciously follow is `:chef-kiss:`.
 * Food is my love language and the gym is my escape. There's just nothing that feels better than lifting some heavy sh*t when you're frustrated.
-* I thought I was a cat person all my life, and then I met my heart dog. His name is Wilson <3. We recently had to say goodbye to him, and it was incredibly hard to only have spent 3 years with him (he was an old rescue).
+* I thought I was a cat person all my life, and then I met my heart dog. His name was Wilson, we only had him for 3 years (old rescue), and he was the best boy.
 
 #### What drives you nuts?
 
 * Having the same meeting over and over again and getting nowhere. I love incremental progress.
 * When people aren't considerate of others' time.
-* My own hoarder / clutter tendencies. I have a hard time throwing _anything_ away, on the off chance it'll be useful again in 5 years. Yes, I tried to read Marie Kondo, and no it did not work.
 
 #### What are your quirks?
 
-* I'm pretty much always eating during meetings (muted, of course). :chompy: If it's not a meal, it's a tasty snack like kettle corn.
 * I'm a tab-hoarder. I'm working on it. On any given day, I probably have 5-10 windows open, each with 3-30 tabs open (I wish I was exaggerating). Every so often, I burn it all down and close all the windows to start fresh.
 * I lose track of time / get into flow state pretty easily. If I'm ever more than a couple mins late to a meeting without giving you a heads up - it's probably because I got distracted and I would appreciate a gentle nudge on slack!
 
@@ -54,7 +52,7 @@ Something my org does is write these 'human user guides' to tell folks a little 
 
 * Gimme feedback about how I can do something better, technical or otherwise!
 * Tell me about something cool you learned during #day-of-learning, *especially* if it's not work-related
-* Send me memes or pictures of your cat/dog/other type of pet
+* Send me memes or pictures of your cat/dog/kid
 
 ### About my interactions
 
